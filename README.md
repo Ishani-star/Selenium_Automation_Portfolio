@@ -31,5 +31,7 @@ This folder contains my Capstone Project, which focuses on automating an e-comme
 Folder 3
 
 This folder contains my Coursera certificates completed during the training.
+
+
 Demo
 https://drive.google.com/file/d/1vBfd9iBVF_h2iVlGlG4LN2v5vRN5CbS1/view?usp=drivesdk
